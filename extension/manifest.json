@@ -1,7 +1,7 @@
 {
   "name": "SOCKS proxy",
   "description": "Configure a localhost SOCKS proxy",
-  "homepage_url": "https://sources.hotplate.co.nz/fincham/socks-proxy-extension.git/about",
+  "homepage_url": "https://socksproxy.sova.st/",
   "author": "Hotplate Labs",
   "version": "0",
   "options_ui": {
